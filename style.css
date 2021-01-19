@@ -1,0 +1,31 @@
+.header *{
+  
+    border:solid;
+}
+h1{
+    color: blue;
+    padding-bottom: 40px;
+    margin-left: 40px;
+}
+.header{
+
+    background-color:pink ;
+    display: flex;
+    justify-content: flex-basis;
+    
+    
+}
+body{
+    background-color:#c87d5a;
+    
+}
+a:link{
+    color:green;
+}
+a:visited{
+    color:green ;
+}
+.menu {
+border:solid;
+    margin-right:20px;
+}
